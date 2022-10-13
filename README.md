@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# buildspace Wave Portal 👋 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+### **Welcome!**
+To get started with this course, clone this repo and follow these commands:
 
-Try running some of the following tasks:
+1. Run `npm install` at the root of your directory
+2. Run `npm run start` to start the project
+3. Start coding!
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+### **Questions?**
+Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b) and link your Discord account so you can get access to helpful channels and your instructor!
