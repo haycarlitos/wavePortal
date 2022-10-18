@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/carlos/diosplan/tutoriales/waveportal/contracts/WavePortal.sol": {
-      "lastModificationDate": 1666059697379,
-      "contentHash": "e28f1361ab83b99404049d2ac8c3dfa7",
+      "lastModificationDate": 1666123615977,
+      "contentHash": "c5105531ffcbe6ad1020d5c552502c58",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
         "version": "0.8.17",
